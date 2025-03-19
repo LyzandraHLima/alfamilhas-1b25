@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #f4f4f4;
+    font-family: "Raleway", sans-serif;
+}
+section{
+    max-width: 1140px;
+    margin: 0 auto; /*centralizando o elemento, 0 altura, auto largura*/
+}
+.menu ul li {
+    display: inline-block; /*inline block deixa na mesma linha*/
+}
